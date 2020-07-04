@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: `Nomaan Ahgharian`,
         name: `Nomaan Ahgharian`,
-        siteUrl: `https://novela.narative.co`,
+        siteUrl: `https://nomaan.me`,
         description: `Website of Nomaan Ahgharian - A Chicago based Software Engineer and UXer`,
         hero: {
             heading: `Hi, I'm Nomaan, a Chicago based Software Engineer with User Experience first approach `,
@@ -34,7 +34,7 @@ module.exports = {
                 contentPosts: "content/posts",
                 contentAuthors: "content/authors",
                 basePath: "/",
-                authorsPage: true,
+                authorsPage: false,
                 sources: {
                     local: true,
                     // contentful: true,
@@ -44,8 +44,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Novela by Narative`,
-                short_name: `Novela`,
+                name: `Nomaan Ahgharian`,
+                short_name: `Nomaan`,
                 start_url: `/`,
                 background_color: `#fff`,
                 theme_color: `#fff`,
