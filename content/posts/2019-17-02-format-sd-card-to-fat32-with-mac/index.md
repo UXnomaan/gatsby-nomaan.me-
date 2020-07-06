@@ -2,7 +2,7 @@
 title: How to format an SD card to FAT32 on a Mac without a virtual machine
 author: Nomaan Ahgharian
 date: 2019-04-30
-hero: ./images/disk-util.png
+hero: ./images/drive.png
 excerpt: An easy way to format your SD card to FAT32 format without having to use virtual box or any windows machine.
 ---
 
